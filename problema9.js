@@ -3,5 +3,5 @@ function asignarColores(a) {
   return { colorPrimario, colorSecundario, paletaAdicional };
 }
 
-const colores = ['45345', '3454354', '54354', '45345'];
+const colores = ['#453453', '#345435', '#543542', '#453453'];
 console.log(asignarColores(colores));
